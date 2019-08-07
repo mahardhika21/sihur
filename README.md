@@ -1,2 +1,2 @@
 # sihur
-situs hitung umur 
+situs hitung umur (sihur) adalah aplikasi perhitungan usia yang dikembangkan dengan dengan javascript
